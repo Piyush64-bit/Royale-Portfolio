@@ -2,12 +2,12 @@ export const personalInfo = {
   name: "Piyush Soni",
   title: "Computer Science Engineering Student",
   subtitle: "Frontend & Fullstack Developer | Graphic Designer | Content Creator",
-  email: "piyushsoni64bit@gmail.com",
-  phone: "+91 XXXXX XXXXX",
+  email: "piiyush.sonii@outlook.com",
+  phone: "+91 96602 83856",
   location: "India",
   github: "https://github.com/Piyush64-bit",
   linkedin: "https://www.linkedin.com/in/piyush64bit",
-  instagram: "https://www.instagram.com/piyush64bit",
+  instagram: "https://www.instagram.com/pii.yush",
   twitter: "https://twitter.com/piyush64bit"
 };
 
